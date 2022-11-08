@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pulsar/static/css/main.3350ff46.chunk.css",
+    "main.js": "/pulsar/static/js/main.66672d83.chunk.js",
+    "main.js.map": "/pulsar/static/js/main.66672d83.chunk.js.map",
+    "runtime-main.js": "/pulsar/static/js/runtime-main.6063c89e.js",
+    "runtime-main.js.map": "/pulsar/static/js/runtime-main.6063c89e.js.map",
+    "static/js/2.23f0236a.chunk.js": "/pulsar/static/js/2.23f0236a.chunk.js",
+    "static/js/2.23f0236a.chunk.js.map": "/pulsar/static/js/2.23f0236a.chunk.js.map",
+    "index.html": "/pulsar/index.html",
+    "static/css/main.3350ff46.chunk.css.map": "/pulsar/static/css/main.3350ff46.chunk.css.map",
+    "static/js/2.23f0236a.chunk.js.LICENSE.txt": "/pulsar/static/js/2.23f0236a.chunk.js.LICENSE.txt",
+    "static/media/back.3d3f5b7e.svg": "/pulsar/static/media/back.3d3f5b7e.svg",
+    "static/media/body.c29950b1.svg": "/pulsar/static/media/body.c29950b1.svg",
+    "static/media/calendario.98cc2ca3.svg": "/pulsar/static/media/calendario.98cc2ca3.svg",
+    "static/media/deletar.f708d287.svg": "/pulsar/static/media/deletar.f708d287.svg",
+    "static/media/dorso.74580c68.svg": "/pulsar/static/media/dorso.74580c68.svg",
+    "static/media/esteto.84551f81.svg": "/pulsar/static/media/esteto.84551f81.svg",
+    "static/media/fail.4f34df92.svg": "/pulsar/static/media/fail.4f34df92.svg",
+    "static/media/flag.6a70fb7d.svg": "/pulsar/static/media/flag.6a70fb7d.svg",
+    "static/media/microfone.2f602e11.svg": "/pulsar/static/media/microfone.2f602e11.svg",
+    "static/media/novo.f6f2dd72.svg": "/pulsar/static/media/novo.f6f2dd72.svg",
+    "static/media/people.18594ff8.svg": "/pulsar/static/media/people.18594ff8.svg",
+    "static/media/power.20d55c82.svg": "/pulsar/static/media/power.20d55c82.svg",
+    "static/media/prec_contato.9f9b7295.svg": "/pulsar/static/media/prec_contato.9f9b7295.svg",
+    "static/media/prec_padrao.30887a1d.svg": "/pulsar/static/media/prec_padrao.30887a1d.svg",
+    "static/media/prec_respiratorio.d0c02b2f.svg": "/pulsar/static/media/prec_respiratorio.d0c02b2f.svg",
+    "static/media/preferencias.04ef6224.svg": "/pulsar/static/media/preferencias.04ef6224.svg",
+    "static/media/refresh.6512db18.svg": "/pulsar/static/media/refresh.6512db18.svg",
+    "static/media/salvar.dd2fada7.svg": "/pulsar/static/media/salvar.dd2fada7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6063c89e.js",
+    "static/js/2.23f0236a.chunk.js",
+    "static/css/main.3350ff46.chunk.css",
+    "static/js/main.66672d83.chunk.js"
+  ]
+}
