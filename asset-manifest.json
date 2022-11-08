@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pulsar-front/static/css/main.3350ff46.chunk.css",
-    "main.js": "/pulsar-front/static/js/main.191aadf6.chunk.js",
-    "main.js.map": "/pulsar-front/static/js/main.191aadf6.chunk.js.map",
+    "main.js": "/pulsar-front/static/js/main.b36c3f19.chunk.js",
+    "main.js.map": "/pulsar-front/static/js/main.b36c3f19.chunk.js.map",
     "runtime-main.js": "/pulsar-front/static/js/runtime-main.294a0d41.js",
     "runtime-main.js.map": "/pulsar-front/static/js/runtime-main.294a0d41.js.map",
-    "static/js/2.23f0236a.chunk.js": "/pulsar-front/static/js/2.23f0236a.chunk.js",
-    "static/js/2.23f0236a.chunk.js.map": "/pulsar-front/static/js/2.23f0236a.chunk.js.map",
+    "static/js/2.19caa364.chunk.js": "/pulsar-front/static/js/2.19caa364.chunk.js",
+    "static/js/2.19caa364.chunk.js.map": "/pulsar-front/static/js/2.19caa364.chunk.js.map",
     "index.html": "/pulsar-front/index.html",
     "static/css/main.3350ff46.chunk.css.map": "/pulsar-front/static/css/main.3350ff46.chunk.css.map",
-    "static/js/2.23f0236a.chunk.js.LICENSE.txt": "/pulsar-front/static/js/2.23f0236a.chunk.js.LICENSE.txt",
+    "static/js/2.19caa364.chunk.js.LICENSE.txt": "/pulsar-front/static/js/2.19caa364.chunk.js.LICENSE.txt",
     "static/media/back.3d3f5b7e.svg": "/pulsar-front/static/media/back.3d3f5b7e.svg",
     "static/media/body.c29950b1.svg": "/pulsar-front/static/media/body.c29950b1.svg",
     "static/media/calendario.98cc2ca3.svg": "/pulsar-front/static/media/calendario.98cc2ca3.svg",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.294a0d41.js",
-    "static/js/2.23f0236a.chunk.js",
+    "static/js/2.19caa364.chunk.js",
     "static/css/main.3350ff46.chunk.css",
-    "static/js/main.191aadf6.chunk.js"
+    "static/js/main.b36c3f19.chunk.js"
   ]
 }
