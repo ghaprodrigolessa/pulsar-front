@@ -15,7 +15,7 @@
    viewBox="0 0 120 120"
    version="1.1"
    id="svg61"
-   sodipodi:docname="plano_fail.svg"
+   sodipodi:docname="fail.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata65">
@@ -79,28 +79,4 @@
      id="path848"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
-  <g
-     id="g866"
-     transform="matrix(0.7148963,0,0,0.7148963,20.567188,32.662143)">
-    <rect
-       transform="matrix(0.71705008,-0.69702165,0.71705008,0.69702165,0,0)"
-       rx="2.8105526"
-       ry="2.2467015"
-       y="63.356525"
-       x="-8.3562269"
-       height="43.043648"
-       width="14.308076"
-       id="rect833-5"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.71984529;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-    <rect
-       transform="matrix(-0.71705008,-0.69702165,-0.71705008,0.69702165,0,0)"
-       rx="2.8105526"
-       ry="2.2467015"
-       y="-20.319635"
-       x="-92.032387"
-       height="43.043648"
-       width="14.308076"
-       id="rect833-5-1"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.71984529;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-  </g>
 </svg>
